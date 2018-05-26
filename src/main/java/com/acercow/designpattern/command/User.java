@@ -1,6 +1,5 @@
 package com.acercow.designpattern.command;
 
-import javafx.scene.paint.Stop;
 
 /**
  * Created by Jansen on 2017/9/9.
